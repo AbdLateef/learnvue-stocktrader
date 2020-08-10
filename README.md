@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-stock-trader
 
 > A Vue.js project
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# learnvue-stocktrader
+>>>>>>> 334029fed6cac28ee6469886484c50899aa09de5
